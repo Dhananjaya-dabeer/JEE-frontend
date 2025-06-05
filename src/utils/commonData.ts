@@ -1,0 +1,32 @@
+export const subjectInfo = {
+  Physics: {
+    title: "Physics PYQs",
+    subtitle: "Chapter-wise Collection of Physics PYQs",
+    papers: "173 Papers",
+    questions: "15825 Qs",
+    icon: "Atom",
+    bgColor: "bg-orange-500",
+    color: "text-orange-500",
+    years: "2025 - 2009",
+  },
+  Chemistry: {
+    title: "Chemistry PYQs",
+    subtitle: "Chapter-wise Collection of Chemistry PYQs",
+    papers: "173 Papers",
+    questions: "12500 Qs",
+    icon: "TestTube",
+    bgColor: "bg-green-500",
+    color: "text-green-500",
+    years: "2025 - 2009",
+  },
+  Mathematics: {
+    title: "Mathematics PYQs",
+    subtitle: "Chapter-wise Collection of Mathematics PYQs",
+    papers: "173 Papers",
+    questions: "18200 Qs",
+    icon: "Calculator",
+    bgColor: "bg-blue-500",
+    color: "text-blue-500",
+    years: "2025 - 2009",
+  },
+};
